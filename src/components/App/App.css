@@ -1,0 +1,58 @@
+body {
+  color: blue;
+}
+
+.main {
+  text-align: center;
+}
+
+.number {
+  background-color: rgb(199, 199, 199);
+  color: black;
+  padding: 20px;
+  margin: 0 40% 0 40%;
+  border-radius: 7px;
+  font-size: 35px;
+  font-weight: 700;
+}
+
+.btn {
+  margin: 10px;
+  padding: 5px 25px 5px 25px;
+  background-color: blue;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  cursor: pointer;
+}
+
+.reset {
+  background-color: gray;
+}
+
+.inputs {
+  padding: 5px;
+  margin: 5px;
+  border: none;
+  background-color: rgb(215, 214, 214);
+  border-radius: 5px;
+  color: blue;
+  font-weight: 700;
+}
+
+.message {
+  padding: 20px;
+  background-color: green;
+  margin: 15px 30% 5px 30%;
+  border-radius: 7px;
+  color: aliceblue;
+  font-size: 35px;
+}
+
+.scores {
+  border: solid gray;
+  margin: 15px 20% 5px 20%;
+  border-radius: 7px;
+  padding: 10px;
+  height: 100px;
+}
